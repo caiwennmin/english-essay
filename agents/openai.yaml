@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Essay (High Score)"
+  short_description: "Write high-scoring English essays for school homework with advanced vocabulary and grammar"
+  default_prompt: "Write an English essay about"
